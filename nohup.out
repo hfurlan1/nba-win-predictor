@@ -1,0 +1,2 @@
+nohup: uvicorn: No such file or directory
+nohup: /home/ubuntu/venv/bin/uvicorn: No such file or directory
